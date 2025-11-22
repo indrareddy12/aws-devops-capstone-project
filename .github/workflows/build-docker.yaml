@@ -4,7 +4,7 @@ on:
     branches:
       - main  
     paths:
-      - 'api/Dockerfile' 
+      - 'api/Dockerfile'  
       - 'front-end-nextjs/Dockerfile'
 
 jobs:
