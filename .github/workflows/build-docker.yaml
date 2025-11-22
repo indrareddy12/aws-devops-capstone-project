@@ -3,7 +3,7 @@ name: Build and Publish image to Docker Hub
 on:
   push:
     branches: [ "main" ]
-    paths:
+    paths: 
       - "api/**"
       - "front-end-nextjs/**"
   pull_request:
