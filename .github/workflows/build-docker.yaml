@@ -11,7 +11,7 @@ on:
     paths:
       - "api/**"
       - "front-end-nextjs/**"
-  workflow_dispatch:
+  workflow_dispatch:  
 
 jobs:
   publish_images:
